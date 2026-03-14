@@ -1,0 +1,307 @@
+﻿id,date,homeTeam,awayTeam,homeScore,awayScore
+4493805,2024-07-19,Jagiellonia Bialystok,Puszcza Niepolomice,2,0
+4493811,2024-07-19,Slask Wroclaw,Lechia Gdansk,1,1
+4493804,2024-07-20,GKS Katowice,Radomiak Radom,1,2
+4493809,2024-07-20,Pogon Szczecin,Korona Kielce,3,0
+4493807,2024-07-20,Legia Warszawa,Zaglebie Lubin,2,0
+4493813,2024-07-21,Cracovia,Piast Gliwice,1,1
+4493806,2024-07-21,Lech Poznan,Gornik Zabrze,2,0
+4493808,2024-07-21,Motor Lublin,Rakow Czestochowa,0,2
+4493810,2024-07-22,Stal Mielec,Widzew Lodz,1,1
+4493816,2024-07-26,Puszcza Niepolomice,Gornik Zabrze,2,2
+4493814,2024-07-26,Lechia Gdansk,Motor Lublin,0,2
+4493819,2024-07-27,Stal Mielec,GKS Katowice,0,1
+4493817,2024-07-27,Radomiak Radom,Jagiellonia Bialystok,2,3
+4493820,2024-07-27,Widzew Lodz,Lech Poznan,2,1
+4493812,2024-07-28,Zaglebie Lubin,Pogon Szczecin,2,2
+4493815,2024-07-28,Piast Gliwice,Slask Wroclaw,2,0
+4493803,2024-07-28,Korona Kielce,Legia Warszawa,0,1
+4493818,2024-07-29,Rakow Czestochowa,Cracovia,0,1
+4493787,2024-08-02,Zaglebie Lubin,Puszcza Niepolomice,1,0
+4493785,2024-08-02,Gornik Zabrze,Pogon Szczecin,1,0
+4493794,2024-08-03,GKS Katowice,Rakow Czestochowa,0,1
+4493786,2024-08-03,Jagiellonia Bialystok,Stal Mielec,2,0
+4493788,2024-08-03,Lech Poznan,Lechia Gdansk,3,1
+4493790,2024-08-04,Motor Lublin,Korona Kielce,1,1
+4493789,2024-08-04,Legia Warszawa,Piast Gliwice,1,2
+4493821,2024-08-05,Cracovia,Widzew Lodz,1,3
+4493798,2024-08-09,Radomiak Radom,Gornik Zabrze,1,2
+4493799,2024-08-09,Rakow Czestochowa,Lech Poznan,0,0
+4493792,2024-08-10,Korona Kielce,Cracovia,0,2
+4493796,2024-08-10,Pogon Szczecin,Stal Mielec,1,0
+4493793,2024-08-11,Lechia Gdansk,Zaglebie Lubin,1,1
+4493797,2024-08-11,Puszcza Niepolomice,Legia Warszawa,2,2
+4493800,2024-08-11,Widzew Lodz,Slask Wroclaw,0,0
+4493795,2024-08-12,Piast Gliwice,GKS Katowice,2,2
+4493845,2024-08-16,Puszcza Niepolomice,Lechia Gdansk,4,1
+4493801,2024-08-16,GKS Katowice,Motor Lublin,0,0
+4493851,2024-08-17,Jagiellonia Bialystok,Cracovia,2,4
+4493842,2024-08-17,Zaglebie Lubin,Lech Poznan,0,1
+4493844,2024-08-17,Pogon Szczecin,Widzew Lodz,2,0
+4493847,2024-08-18,Slask Wroclaw,Korona Kielce,1,1
+4493843,2024-08-18,Legia Warszawa,Radomiak Radom,4,1
+4493802,2024-08-18,Gornik Zabrze,Rakow Czestochowa,0,0
+4493846,2024-08-19,Stal Mielec,Piast Gliwice,2,0
+4493855,2024-08-23,Widzew Lodz,Radomiak Radom,3,2
+4493852,2024-08-23,Lechia Gdansk,Rakow Czestochowa,1,2
+4493853,2024-08-24,Motor Lublin,Puszcza Niepolomice,0,0
+4493848,2024-08-24,Cracovia,Gornik Zabrze,3,2
+4493854,2024-08-24,Piast Gliwice,Zaglebie Lubin,1,0
+4493849,2024-08-25,GKS Katowice,Jagiellonia Bialystok,3,1
+4493841,2024-08-25,Lech Poznan,Pogon Szczecin,2,0
+4493856,2024-08-25,Slask Wroclaw,Legia Warszawa,1,1
+4493850,2024-08-26,Korona Kielce,Stal Mielec,2,1
+4493826,2024-08-30,Rakow Czestochowa,Piast Gliwice,0,1
+4493827,2024-08-30,Stal Mielec,Lech Poznan,0,2
+4493824,2024-08-31,Puszcza Niepolomice,Korona Kielce,0,0
+4493859,2024-08-31,Zaglebie Lubin,GKS Katowice,1,0
+4493825,2024-08-31,Radomiak Radom,Cracovia,2,1
+4493857,2024-09-01,Gornik Zabrze,Lechia Gdansk,2,3
+4493832,2024-09-01,Legia Warszawa,Motor Lublin,5,2
+4493823,2024-09-01,Pogon Szczecin,Slask Wroclaw,5,3
+4493858,2024-09-01,Jagiellonia Bialystok,Widzew Lodz,1,0
+4493834,2024-09-13,Motor Lublin,Gornik Zabrze,1,0
+4493829,2024-09-13,GKS Katowice,Widzew Lodz,2,2
+4493822,2024-09-14,Lechia Gdansk,Radomiak Radom,1,0
+4493828,2024-09-14,Cracovia,Pogon Szczecin,2,1
+4493831,2024-09-14,Lech Poznan,Jagiellonia Bialystok,5,0
+4493835,2024-09-15,Piast Gliwice,Puszcza Niepolomice,1,1
+4493830,2024-09-15,Korona Kielce,Zaglebie Lubin,2,0
+4493833,2024-09-15,Legia Warszawa,Rakow Czestochowa,0,1
+4493880,2024-09-20,Radomiak Radom,Korona Kielce,4,0
+4493840,2024-09-20,Pogon Szczecin,Legia Warszawa,1,0
+4493871,2024-09-21,Puszcza Niepolomice,Cracovia,1,2
+4493838,2024-09-21,Jagiellonia Bialystok,Lechia Gdansk,3,2
+4493877,2024-09-21,Widzew Lodz,Piast Gliwice,1,0
+4493837,2024-09-21,Gornik Zabrze,GKS Katowice,3,0
+4493878,2024-09-22,Stal Mielec,Motor Lublin,1,0
+4493879,2024-09-22,Rakow Czestochowa,Zaglebie Lubin,5,1
+4493839,2024-09-22,Lech Poznan,Slask Wroclaw,1,0
+4493784,2024-09-25,Motor Lublin,Jagiellonia Bialystok,0,2
+4493875,2024-09-27,GKS Katowice,Pogon Szczecin,3,1
+4493872,2024-09-27,Lechia Gdansk,Widzew Lodz,1,1
+4493868,2024-09-28,Rakow Czestochowa,Puszcza Niepolomice,2,0
+4493870,2024-09-28,Motor Lublin,Slask Wroclaw,2,1
+4493860,2024-09-28,Legia Warszawa,Gornik Zabrze,1,1
+4493874,2024-09-29,Zaglebie Lubin,Radomiak Radom,1,0
+4493873,2024-09-29,Korona Kielce,Lech Poznan,2,3
+4493869,2024-09-29,Piast Gliwice,Jagiellonia Bialystok,0,1
+4493876,2024-09-30,Cracovia,Stal Mielec,1,1
+4493863,2024-10-04,Puszcza Niepolomice,GKS Katowice,0,6
+4493890,2024-10-04,Widzew Lodz,Korona Kielce,0,1
+4493861,2024-10-05,Stal Mielec,Lechia Gdansk,2,1
+4493862,2024-10-05,Radomiak Radom,Rakow Czestochowa,0,2
+4493867,2024-10-05,Gornik Zabrze,Zaglebie Lubin,0,1
+4493865,2024-10-05,Lech Poznan,Motor Lublin,1,2
+4493897,2024-10-06,Slask Wroclaw,Cracovia,2,4
+4493864,2024-10-06,Pogon Szczecin,Piast Gliwice,1,0
+4493866,2024-10-06,Jagiellonia Bialystok,Legia Warszawa,1,1
+4493892,2024-10-18,Korona Kielce,Piast Gliwice,0,2
+4493891,2024-10-18,Lechia Gdansk,Legia Warszawa,0,2
+4493881,2024-10-19,Motor Lublin,Widzew Lodz,3,4
+4493893,2024-10-19,Zaglebie Lubin,Jagiellonia Bialystok,1,3
+4493896,2024-10-19,Cracovia,Lech Poznan,0,2
+4493895,2024-10-20,GKS Katowice,Slask Wroclaw,0,0
+4493894,2024-10-20,Gornik Zabrze,Stal Mielec,3,1
+4493888,2024-10-20,Rakow Czestochowa,Pogon Szczecin,1,0
+4493889,2024-10-21,Radomiak Radom,Puszcza Niepolomice,2,0
+4493836,2024-10-23,Slask Wroclaw,Stal Mielec,2,1
+4493883,2024-10-25,Piast Gliwice,Lechia Gdansk,3,3
+4493882,2024-10-25,Pogon Szczecin,Puszcza Niepolomice,2,1
+4493887,2024-10-26,Cracovia,Motor Lublin,6,2
+4493916,2024-10-26,Slask Wroclaw,Rakow Czestochowa,0,0
+4493885,2024-10-26,Lech Poznan,Radomiak Radom,2,1
+4493915,2024-10-27,Stal Mielec,Zaglebie Lubin,2,2
+4493886,2024-10-27,Jagiellonia Bialystok,Korona Kielce,3,1
+4493898,2024-10-27,Widzew Lodz,Gornik Zabrze,0,2
+4493884,2024-10-27,Legia Warszawa,GKS Katowice,4,1
+4493925,2024-11-02,Rakow Czestochowa,Stal Mielec,1,0
+4493922,2024-11-02,Motor Lublin,Pogon Szczecin,4,2
+4493923,2024-11-02,Puszcza Niepolomice,Lech Poznan,2,0
+4493924,2024-11-03,Radomiak Radom,Piast Gliwice,1,1
+4493918,2024-11-03,Gornik Zabrze,Jagiellonia Bialystok,0,2
+4493920,2024-11-03,Lechia Gdansk,Cracovia,1,2
+4493921,2024-11-03,Legia Warszawa,Widzew Lodz,2,1
+4493917,2024-11-04,GKS Katowice,Korona Kielce,1,2
+4493919,2024-11-04,Zaglebie Lubin,Slask Wroclaw,3,0
+4493929,2024-11-08,Piast Gliwice,Motor Lublin,2,3
+4493913,2024-11-08,Pogon Szczecin,Radomiak Radom,0,1
+4493928,2024-11-09,Korona Kielce,Lechia Gdansk,0,0
+4493926,2024-11-09,Cracovia,GKS Katowice,3,4
+4493911,2024-11-09,Widzew Lodz,Zaglebie Lubin,2,0
+4493910,2024-11-09,Slask Wroclaw,Gornik Zabrze,0,1
+4493912,2024-11-10,Stal Mielec,Puszcza Niepolomice,2,0
+4493927,2024-11-10,Jagiellonia Bialystok,Rakow Czestochowa,2,2
+4493914,2024-11-10,Lech Poznan,Legia Warszawa,5,2
+4493907,2024-11-22,Zaglebie Lubin,Motor Lublin,1,2
+4493908,2024-11-22,Jagiellonia Bialystok,Slask Wroclaw,2,2
+4493905,2024-11-23,Lechia Gdansk,Pogon Szczecin,0,3
+4493906,2024-11-23,Lech Poznan,GKS Katowice,2,0
+4493904,2024-11-23,Legia Warszawa,Cracovia,3,2
+4493902,2024-11-24,Radomiak Radom,Stal Mielec,1,2
+4493901,2024-11-24,Rakow Czestochowa,Korona Kielce,1,1
+4493909,2024-11-24,Gornik Zabrze,Piast Gliwice,1,0
+4493903,2024-11-25,Puszcza Niepolomice,Widzew Lodz,2,0
+4493900,2024-11-29,Cracovia,Zaglebie Lubin,1,1
+4493932,2024-11-29,Piast Gliwice,Lech Poznan,0,0
+4493956,2024-11-30,Slask Wroclaw,Puszcza Niepolomice,0,1
+4493899,2024-11-30,GKS Katowice,Lechia Gdansk,2,0
+4493935,2024-11-30,Widzew Lodz,Rakow Czestochowa,2,3
+4493930,2024-12-01,Korona Kielce,Gornik Zabrze,2,4
+4493933,2024-12-01,Pogon Szczecin,Jagiellonia Bialystok,1,1
+4493934,2024-12-01,Stal Mielec,Legia Warszawa,2,2
+4493931,2024-12-02,Motor Lublin,Radomiak Radom,1,0
+4493962,2024-12-06,Radomiak Radom,GKS Katowice,1,1
+4493946,2024-12-06,Gornik Zabrze,Lech Poznan,2,1
+4493959,2024-12-07,Lechia Gdansk,Slask Wroclaw,1,0
+4493964,2024-12-07,Widzew Lodz,Stal Mielec,2,1
+4493963,2024-12-07,Rakow Czestochowa,Motor Lublin,2,2
+4493960,2024-12-08,Piast Gliwice,Cracovia,0,0
+4493961,2024-12-08,Puszcza Niepolomice,Jagiellonia Bialystok,1,1
+4493957,2024-12-08,Zaglebie Lubin,Legia Warszawa,0,3
+4493958,2024-12-09,Korona Kielce,Pogon Szczecin,0,0
+4493791,2024-12-14,Slask Wroclaw,Radomiak Radom,1,2
+4493966,2025-01-31,GKS Katowice,Stal Mielec,1,0
+4493969,2025-01-31,Lech Poznan,Widzew Lodz,4,1
+4493971,2025-02-01,Motor Lublin,Lechia Gdansk,1,1
+4493965,2025-02-01,Cracovia,Rakow Czestochowa,0,0
+4493955,2025-02-01,Pogon Szczecin,Zaglebie Lubin,1,0
+4493967,2025-02-02,Gornik Zabrze,Puszcza Niepolomice,1,1
+4493968,2025-02-02,Jagiellonia Bialystok,Radomiak Radom,5,0
+4493970,2025-02-02,Legia Warszawa,Korona Kielce,1,1
+4493972,2025-02-03,Slask Wroclaw,Piast Gliwice,1,3
+4493944,2025-02-07,Stal Mielec,Jagiellonia Bialystok,2,1
+4493940,2025-02-07,Pogon Szczecin,Gornik Zabrze,3,0
+4493942,2025-02-08,Radomiak Radom,Slask Wroclaw,1,1
+4493943,2025-02-08,Rakow Czestochowa,GKS Katowice,1,2
+4493939,2025-02-08,Piast Gliwice,Legia Warszawa,1,0
+4493937,2025-02-09,Korona Kielce,Motor Lublin,1,0
+4493945,2025-02-09,Widzew Lodz,Cracovia,1,1
+4493938,2025-02-09,Lechia Gdansk,Lech Poznan,1,0
+4493941,2025-02-10,Puszcza Niepolomice,Zaglebie Lubin,1,2
+4493936,2025-02-14,Cracovia,Korona Kielce,1,1
+4493951,2025-02-14,Lech Poznan,Rakow Czestochowa,0,1
+4493954,2025-02-15,Slask Wroclaw,Widzew Lodz,3,0
+4493948,2025-02-15,Gornik Zabrze,Radomiak Radom,3,2
+4493952,2025-02-15,Legia Warszawa,Puszcza Niepolomice,2,0
+4493953,2025-02-16,Stal Mielec,Pogon Szczecin,1,2
+4493947,2025-02-16,GKS Katowice,Piast Gliwice,0,0
+4493949,2025-02-16,Jagiellonia Bialystok,Motor Lublin,3,0
+4493950,2025-02-17,Zaglebie Lubin,Lechia Gdansk,1,3
+4493997,2025-02-21,Piast Gliwice,Stal Mielec,2,2
+4493999,2025-02-21,Rakow Czestochowa,Gornik Zabrze,1,0
+4494003,2025-02-22,Korona Kielce,Slask Wroclaw,2,0
+4494000,2025-02-22,Widzew Lodz,Pogon Szczecin,0,4
+4493998,2025-02-22,Radomiak Radom,Legia Warszawa,3,1
+4493995,2025-02-23,Lechia Gdansk,Puszcza Niepolomice,0,2
+4493973,2025-02-23,Cracovia,Jagiellonia Bialystok,2,2
+4493994,2025-02-23,Lech Poznan,Zaglebie Lubin,3,1
+4493996,2025-02-24,Motor Lublin,GKS Katowice,3,2
+4494007,2025-02-28,Radomiak Radom,Widzew Lodz,1,1
+4494001,2025-02-28,Gornik Zabrze,Cracovia,0,1
+4494009,2025-03-01,Stal Mielec,Korona Kielce,0,1
+4494005,2025-03-01,Pogon Szczecin,Lech Poznan,0,3
+4493993,2025-03-01,Zaglebie Lubin,Piast Gliwice,0,1
+4494006,2025-03-02,Puszcza Niepolomice,Motor Lublin,0,1
+4494004,2025-03-02,Legia Warszawa,Slask Wroclaw,3,1
+4494002,2025-03-02,Jagiellonia Bialystok,GKS Katowice,1,0
+4494008,2025-03-03,Rakow Czestochowa,Lechia Gdansk,3,1
+4493984,2025-03-07,Korona Kielce,Puszcza Niepolomice,2,1
+4493980,2025-03-07,Slask Wroclaw,Pogon Szczecin,1,1
+4494010,2025-03-08,Cracovia,Radomiak Radom,1,2
+4493978,2025-03-08,Piast Gliwice,Rakow Czestochowa,0,3
+4493975,2025-03-08,Lech Poznan,Stal Mielec,3,1
+4494011,2025-03-09,GKS Katowice,Zaglebie Lubin,1,0
+4493976,2025-03-09,Lechia Gdansk,Gornik Zabrze,1,2
+4493979,2025-03-09,Widzew Lodz,Jagiellonia Bialystok,0,1
+4493977,2025-03-10,Motor Lublin,Legia Warszawa,3,3
+4493986,2025-03-14,Radomiak Radom,Lechia Gdansk,2,1
+4493974,2025-03-14,Pogon Szczecin,Cracovia,5,2
+4493988,2025-03-15,Stal Mielec,Slask Wroclaw,1,4
+4493981,2025-03-15,Gornik Zabrze,Motor Lublin,4,0
+4493989,2025-03-15,Widzew Lodz,GKS Katowice,1,0
+4493985,2025-03-16,Puszcza Niepolomice,Piast Gliwice,2,1
+4493983,2025-03-16,Zaglebie Lubin,Korona Kielce,1,1
+4493987,2025-03-16,Rakow Czestochowa,Legia Warszawa,3,2
+4493982,2025-03-16,Jagiellonia Bialystok,Lech Poznan,2,1
+4494015,2025-03-28,Piast Gliwice,Widzew Lodz,0,2
+4494013,2025-03-28,Legia Warszawa,Pogon Szczecin,0,0
+4493990,2025-03-29,Cracovia,Puszcza Niepolomice,3,1
+4494012,2025-03-29,Lechia Gdansk,Jagiellonia Bialystok,1,0
+4494016,2025-03-29,Slask Wroclaw,Lech Poznan,3,1
+4494017,2025-03-30,Korona Kielce,Radomiak Radom,1,3
+4494014,2025-03-30,Motor Lublin,Stal Mielec,4,1
+4493991,2025-03-30,GKS Katowice,Gornik Zabrze,2,1
+4493992,2025-03-31,Zaglebie Lubin,Rakow Czestochowa,0,2
+4494043,2025-04-04,Stal Mielec,Cracovia,1,1
+4494042,2025-04-04,Widzew Lodz,Lechia Gdansk,2,0
+4494044,2025-04-05,Radomiak Radom,Zaglebie Lubin,0,1
+4494041,2025-04-05,Slask Wroclaw,Motor Lublin,1,1
+4494047,2025-04-05,Lech Poznan,Korona Kielce,2,0
+4494048,2025-04-06,Jagiellonia Bialystok,Piast Gliwice,1,1
+4494049,2025-04-06,Gornik Zabrze,Legia Warszawa,1,2
+4494046,2025-04-06,Pogon Szczecin,GKS Katowice,4,0
+4494045,2025-04-07,Puszcza Niepolomice,Rakow Czestochowa,1,1
+4494038,2025-04-11,Zaglebie Lubin,Gornik Zabrze,2,1
+4494037,2025-04-11,Korona Kielce,Widzew Lodz,2,1
+4494039,2025-04-12,GKS Katowice,Puszcza Niepolomice,3,1
+4494040,2025-04-12,Cracovia,Slask Wroclaw,2,4
+4494020,2025-04-12,Rakow Czestochowa,Radomiak Radom,2,1
+4494018,2025-04-13,Piast Gliwice,Pogon Szczecin,2,1
+4494034,2025-04-13,Motor Lublin,Lech Poznan,1,2
+4494035,2025-04-13,Legia Warszawa,Jagiellonia Bialystok,0,1
+4494036,2025-04-14,Lechia Gdansk,Stal Mielec,3,2
+4494024,2025-04-19,Piast Gliwice,Korona Kielce,1,1
+4494029,2025-04-19,Slask Wroclaw,GKS Katowice,0,2
+4494028,2025-04-19,Widzew Lodz,Motor Lublin,1,2
+4494025,2025-04-19,Pogon Szczecin,Rakow Czestochowa,1,0
+4494026,2025-04-21,Puszcza Niepolomice,Radomiak Radom,2,2
+4494021,2025-04-21,Jagiellonia Bialystok,Zaglebie Lubin,1,3
+4494023,2025-04-21,Legia Warszawa,Lechia Gdansk,2,1
+4494022,2025-04-21,Lech Poznan,Cracovia,2,1
+4494027,2025-04-22,Stal Mielec,Gornik Zabrze,0,0
+4494072,2025-04-25,Puszcza Niepolomice,Pogon Szczecin,4,5
+4494070,2025-04-25,Rakow Czestochowa,Slask Wroclaw,3,0
+4494019,2025-04-26,Lechia Gdansk,Piast Gliwice,3,1
+4494062,2025-04-26,Motor Lublin,Cracovia,0,1
+4494030,2025-04-26,GKS Katowice,Legia Warszawa,1,3
+4494033,2025-04-27,Korona Kielce,Jagiellonia Bialystok,3,1
+4494031,2025-04-27,Gornik Zabrze,Widzew Lodz,0,0
+4494071,2025-04-27,Radomiak Radom,Lech Poznan,2,2
+4494032,2025-04-28,Zaglebie Lubin,Stal Mielec,2,2
+4494063,2025-05-03,Stal Mielec,Rakow Czestochowa,0,2
+4494061,2025-05-03,Slask Wroclaw,Zaglebie Lubin,3,1
+4494066,2025-05-03,Lech Poznan,Puszcza Niepolomice,8,1
+4494065,2025-05-04,Piast Gliwice,Radomiak Radom,0,0
+4494069,2025-05-04,Cracovia,Lechia Gdansk,0,2
+4494068,2025-05-04,Jagiellonia Bialystok,Gornik Zabrze,1,1
+4494067,2025-05-05,Korona Kielce,GKS Katowice,2,1
+4494055,2025-05-09,Motor Lublin,Piast Gliwice,1,4
+4494059,2025-05-09,Gornik Zabrze,Slask Wroclaw,2,0
+4494053,2025-05-10,Radomiak Radom,Pogon Szczecin,2,0
+4494058,2025-05-10,Zaglebie Lubin,Widzew Lodz,2,1
+4494052,2025-05-10,Rakow Czestochowa,Jagiellonia Bialystok,1,2
+4494057,2025-05-11,Lechia Gdansk,Korona Kielce,3,2
+4494060,2025-05-11,GKS Katowice,Cracovia,2,1
+4494056,2025-05-11,Legia Warszawa,Lech Poznan,0,1
+4494054,2025-05-12,Puszcza Niepolomice,Stal Mielec,2,3
+4494064,2025-05-14,Pogon Szczecin,Motor Lublin,3,0
+4494050,2025-05-15,Widzew Lodz,Legia Warszawa,0,2
+4494082,2025-05-16,Stal Mielec,Radomiak Radom,2,2
+4494081,2025-05-16,Slask Wroclaw,Jagiellonia Bialystok,1,1
+4494083,2025-05-17,Pogon Szczecin,Lechia Gdansk,3,3
+4494084,2025-05-17,Piast Gliwice,Gornik Zabrze,2,0
+4494086,2025-05-17,Korona Kielce,Rakow Czestochowa,1,1
+4494085,2025-05-18,Motor Lublin,Zaglebie Lubin,1,0
+4494051,2025-05-18,Cracovia,Legia Warszawa,3,1
+4494087,2025-05-18,GKS Katowice,Lech Poznan,2,2
+4494073,2025-05-19,Widzew Lodz,Puszcza Niepolomice,2,0
+4494080,2025-05-24,Gornik Zabrze,Korona Kielce,1,1
+4494079,2025-05-24,Jagiellonia Bialystok,Pogon Szczecin,1,1
+4494077,2025-05-24,Lech Poznan,Piast Gliwice,1,0
+4494076,2025-05-24,Lechia Gdansk,GKS Katowice,2,3
+4494075,2025-05-24,Legia Warszawa,Stal Mielec,2,2
+4494074,2025-05-24,Puszcza Niepolomice,Slask Wroclaw,1,1
+4494088,2025-05-24,Radomiak Radom,Motor Lublin,2,3
+4494089,2025-05-24,Rakow Czestochowa,Widzew Lodz,2,1
+4494078,2025-05-24,Zaglebie Lubin,Cracovia,1,2

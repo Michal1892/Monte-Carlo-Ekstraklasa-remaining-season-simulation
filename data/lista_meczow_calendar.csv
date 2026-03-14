@@ -1,0 +1,92 @@
+﻿id,date,homeTeam,awayTeam
+4803642,2026-03-13,Termalica Nieciecza,Motor Lublin
+4803641,2026-03-13,Radomiak Radom,Legia Warszawa
+4803639,2026-03-14,Jagiellonia Bialystok,Piast Gliwice
+4803637,2026-03-14,GKS Katowice,Lechia Gdansk
+4803636,2026-03-14,Cracovia,Wisla Plock
+4803635,2026-03-15,Arka Gdynia,Widzew Lodz
+4803643,2026-03-15,Zaglebie Lubin,Lech Poznan
+4803638,2026-03-15,Gornik Zabrze,Rakow Czestochowa
+4803640,2026-03-16,Pogon Szczecin,Korona Kielce
+4803556,2026-03-17,Jagiellonia Bialystok,GKS Katowice
+4803650,2026-03-20,Piast Gliwice,Radomiak Radom
+4803649,2026-03-20,Motor Lublin,Zaglebie Lubin
+4803644,2026-03-21,Cracovia,GKS Katowice
+4803646,2026-03-21,Lechia Gdansk,Pogon Szczecin
+4803494,2026-03-21,Jagiellonia Bialystok,Wisla Plock
+4803645,2026-03-22,Korona Kielce,Arka Gdynia
+4803647,2026-03-22,Lech Poznan,Termalica Nieciecza
+4803651,2026-03-22,Widzew Lodz,Gornik Zabrze
+4803648,2026-03-22,Legia Warszawa,Rakow Czestochowa
+4803654,2026-04-04,GKS Katowice,Wisla Plock
+4803660,2026-04-04,Rakow Czestochowa,Widzew Lodz
+4803655,2026-04-04,Gornik Zabrze,Cracovia
+4803656,2026-04-04,Jagiellonia Bialystok,Lech Poznan
+4803661,2026-04-06,Termalica Nieciecza,Piast Gliwice
+4803659,2026-04-06,Radomiak Radom,Motor Lublin
+4803658,2026-04-06,Pogon Szczecin,Legia Warszawa
+4803657,2026-04-06,Lechia Gdansk,Korona Kielce
+4803653,2026-04-07,Arka Gdynia,Zaglebie Lubin
+4803662,2026-04-11,Cracovia,Arka Gdynia
+4803663,2026-04-11,Korona Kielce,Jagiellonia Bialystok
+4803664,2026-04-11,Lech Poznan,GKS Katowice
+4803665,2026-04-11,Legia Warszawa,Gornik Zabrze
+4803666,2026-04-11,Motor Lublin,Rakow Czestochowa
+4803667,2026-04-11,Piast Gliwice,Pogon Szczecin
+4803668,2026-04-11,Widzew Lodz,Termalica Nieciecza
+4803669,2026-04-11,Wisla Plock,Lechia Gdansk
+4803670,2026-04-11,Zaglebie Lubin,Radomiak Radom
+4803671,2026-04-18,Arka Gdynia,Jagiellonia Bialystok
+4803672,2026-04-18,GKS Katowice,Motor Lublin
+4803673,2026-04-18,Gornik Zabrze,Korona Kielce
+4803674,2026-04-18,Lechia Gdansk,Piast Gliwice
+4803675,2026-04-18,Legia Warszawa,Zaglebie Lubin
+4803676,2026-04-18,Pogon Szczecin,Lech Poznan
+4803677,2026-04-18,Radomiak Radom,Widzew Lodz
+4803678,2026-04-18,Rakow Czestochowa,Cracovia
+4803679,2026-04-18,Termalica Nieciecza,Wisla Plock
+4803680,2026-04-25,Cracovia,Pogon Szczecin
+4803681,2026-04-25,Jagiellonia Bialystok,Gornik Zabrze
+4803682,2026-04-25,Korona Kielce,GKS Katowice
+4803684,2026-04-25,Lech Poznan,Legia Warszawa
+4803683,2026-04-25,Lechia Gdansk,Rakow Czestochowa
+4803685,2026-04-25,Piast Gliwice,Arka Gdynia
+4803686,2026-04-25,Widzew Lodz,Motor Lublin
+4803687,2026-04-25,Wisla Plock,Radomiak Radom
+4803688,2026-04-25,Zaglebie Lubin,Termalica Nieciecza
+4803689,2026-05-02,Arka Gdynia,Gornik Zabrze
+4803690,2026-05-02,GKS Katowice,Termalica Nieciecza
+4803691,2026-05-02,Korona Kielce,Piast Gliwice
+4803692,2026-05-02,Legia Warszawa,Widzew Lodz
+4803693,2026-05-02,Motor Lublin,Lech Poznan
+4803694,2026-05-02,Pogon Szczecin,Wisla Plock
+4803695,2026-05-02,Radomiak Radom,Lechia Gdansk
+4803696,2026-05-02,Rakow Czestochowa,Jagiellonia Bialystok
+4803697,2026-05-02,Zaglebie Lubin,Cracovia
+4803698,2026-05-09,Cracovia,Radomiak Radom
+4803699,2026-05-09,Gornik Zabrze,Zaglebie Lubin
+4803700,2026-05-09,Jagiellonia Bialystok,Pogon Szczecin
+4803701,2026-05-09,Lech Poznan,Arka Gdynia
+4803702,2026-05-09,Piast Gliwice,GKS Katowice
+4803703,2026-05-09,Rakow Czestochowa,Korona Kielce
+4803704,2026-05-09,Termalica Nieciecza,Legia Warszawa
+4803705,2026-05-09,Widzew Lodz,Lechia Gdansk
+4803706,2026-05-09,Wisla Plock,Motor Lublin
+4803707,2026-05-16,Arka Gdynia,Termalica Nieciecza
+4803708,2026-05-16,GKS Katowice,Jagiellonia Bialystok
+4803709,2026-05-16,Korona Kielce,Widzew Lodz
+4803710,2026-05-16,Lechia Gdansk,Legia Warszawa
+4803711,2026-05-16,Motor Lublin,Cracovia
+4803712,2026-05-16,Piast Gliwice,Rakow Czestochowa
+4803713,2026-05-16,Radomiak Radom,Lech Poznan
+4803714,2026-05-16,Wisla Plock,Gornik Zabrze
+4803715,2026-05-16,Zaglebie Lubin,Pogon Szczecin
+4803716,2026-05-23,Cracovia,Korona Kielce
+4803717,2026-05-23,Gornik Zabrze,Radomiak Radom
+4803718,2026-05-23,Jagiellonia Bialystok,Zaglebie Lubin
+4803719,2026-05-23,Lech Poznan,Wisla Plock
+4803720,2026-05-23,Legia Warszawa,Motor Lublin
+4803721,2026-05-23,Pogon Szczecin,GKS Katowice
+4803722,2026-05-23,Rakow Czestochowa,Arka Gdynia
+4803723,2026-05-23,Termalica Nieciecza,Lechia Gdansk
+4803724,2026-05-23,Widzew Lodz,Piast Gliwice

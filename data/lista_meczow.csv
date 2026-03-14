@@ -1,0 +1,216 @@
+﻿id,date,homeTeam,awayTeam,homeScore,awayScore
+4803421,2025-07-18,Jagiellonia Bialystok,Termalica Nieciecza,0,4
+4803422,2025-07-18,Lech Poznan,Cracovia,1,4
+4803426,2025-07-19,Widzew Lodz,Zaglebie Lubin,1,0
+4803427,2025-07-19,Wisla Plock,Korona Kielce,2,0
+4803419,2025-07-19,GKS Katowice,Rakow Czestochowa,0,1
+4803420,2025-07-20,Gornik Zabrze,Lechia Gdansk,2,1
+4803424,2025-07-20,Motor Lublin,Arka Gdynia,1,0
+4803425,2025-07-20,Radomiak Radom,Pogon Szczecin,5,1
+4803429,2025-07-25,Cracovia,Termalica Nieciecza,2,0
+4803428,2025-07-25,Arka Gdynia,Radomiak Radom,1,1
+4803434,2025-07-26,Piast Gliwice,Gornik Zabrze,0,1
+4803435,2025-07-26,Pogon Szczecin,Motor Lublin,4,1
+4803433,2025-07-26,Lechia Gdansk,Lech Poznan,3,4
+4803436,2025-07-27,Rakow Czestochowa,Wisla Plock,1,2
+4803431,2025-07-27,Jagiellonia Bialystok,Widzew Lodz,3,2
+4803432,2025-07-27,Korona Kielce,Legia Warszawa,0,2
+4803430,2025-07-28,GKS Katowice,Zaglebie Lubin,2,2
+4803445,2025-08-01,Zaglebie Lubin,Korona Kielce,1,1
+4803444,2025-08-01,Wisla Plock,Piast Gliwice,2,0
+4803442,2025-08-02,Termalica Nieciecza,Pogon Szczecin,1,1
+4803443,2025-08-02,Widzew Lodz,GKS Katowice,3,0
+4803438,2025-08-02,Lech Poznan,Gornik Zabrze,2,1
+4803437,2025-08-03,Cracovia,Lechia Gdansk,2,2
+4803441,2025-08-03,Radomiak Radom,Rakow Czestochowa,3,1
+4803439,2025-08-03,Legia Warszawa,Arka Gdynia,0,0
+4803449,2025-08-08,Korona Kielce,Radomiak Radom,3,0
+4803447,2025-08-08,Gornik Zabrze,Termalica Nieciecza,0,1
+4803446,2025-08-09,Arka Gdynia,Pogon Szczecin,2,1
+4803454,2025-08-09,Widzew Lodz,Wisla Plock,1,1
+4803448,2025-08-10,Jagiellonia Bialystok,Cracovia,5,2
+4803451,2025-08-10,Legia Warszawa,GKS Katowice,3,1
+4803450,2025-08-11,Lechia Gdansk,Motor Lublin,3,3
+4803463,2025-08-15,Zaglebie Lubin,Lechia Gdansk,6,2
+4803455,2025-08-15,Cracovia,Widzew Lodz,1,0
+4803458,2025-08-16,Motor Lublin,Piast Gliwice,0,0
+4803456,2025-08-16,GKS Katowice,Arka Gdynia,4,1
+4803457,2025-08-16,Lech Poznan,Korona Kielce,1,1
+4803459,2025-08-17,Pogon Szczecin,Gornik Zabrze,0,3
+4803460,2025-08-17,Radomiak Radom,Jagiellonia Bialystok,1,2
+4803461,2025-08-17,Termalica Nieciecza,Rakow Czestochowa,2,3
+4803462,2025-08-17,Wisla Plock,Legia Warszawa,1,0
+4803469,2025-08-22,Radomiak Radom,Termalica Nieciecza,1,1
+4803471,2025-08-22,Widzew Lodz,Pogon Szczecin,1,2
+4803465,2025-08-23,Korona Kielce,Motor Lublin,2,0
+4803464,2025-08-23,Gornik Zabrze,GKS Katowice,3,0
+4803468,2025-08-24,Piast Gliwice,Cracovia,0,0
+4803466,2025-08-24,Lechia Gdansk,Arka Gdynia,1,0
+4803472,2025-08-25,Wisla Plock,Zaglebie Lubin,2,1
+4803473,2025-08-29,Arka Gdynia,Wisla Plock,1,0
+4803475,2025-08-29,GKS Katowice,Radomiak Radom,3,2
+4803480,2025-08-30,Termalica Nieciecza,Korona Kielce,1,3
+4803481,2025-08-30,Zaglebie Lubin,Piast Gliwice,2,2
+4803476,2025-08-30,Gornik Zabrze,Motor Lublin,0,1
+4803477,2025-08-31,Jagiellonia Bialystok,Lechia Gdansk,2,0
+4803478,2025-08-31,Lech Poznan,Widzew Lodz,2,1
+4803474,2025-08-31,Cracovia,Legia Warszawa,2,1
+4803479,2025-08-31,Pogon Szczecin,Rakow Czestochowa,2,0
+4803483,2025-09-12,Lechia Gdansk,GKS Katowice,2,0
+4803484,2025-09-12,Lech Poznan,Zaglebie Lubin,1,2
+4803482,2025-09-13,Korona Kielce,Pogon Szczecin,1,0
+4803487,2025-09-13,Piast Gliwice,Jagiellonia Bialystok,1,1
+4803486,2025-09-14,Motor Lublin,Termalica Nieciecza,1,1
+4803485,2025-09-14,Legia Warszawa,Radomiak Radom,4,1
+4803489,2025-09-14,Widzew Lodz,Arka Gdynia,2,0
+4803488,2025-09-15,Rakow Czestochowa,Gornik Zabrze,0,1
+4803492,2025-09-19,GKS Katowice,Cracovia,0,3
+4803652,2025-09-19,Wisla Plock,Jagiellonia Bialystok,0,1
+4803496,2025-09-20,Radomiak Radom,Piast Gliwice,1,0
+4803491,2025-09-20,Arka Gdynia,Korona Kielce,0,0
+4803498,2025-09-20,Termalica Nieciecza,Lech Poznan,0,2
+4803497,2025-09-20,Rakow Czestochowa,Legia Warszawa,1,1
+4803499,2025-09-21,Zaglebie Lubin,Motor Lublin,2,2
+4803495,2025-09-21,Pogon Szczecin,Lechia Gdansk,3,4
+4803493,2025-09-21,Gornik Zabrze,Widzew Lodz,3,2
+4803470,2025-09-24,Rakow Czestochowa,Lech Poznan,2,2
+4803467,2025-09-24,Legia Warszawa,Jagiellonia Bialystok,0,0
+4803507,2025-09-26,Wisla Plock,GKS Katowice,1,1
+4803501,2025-09-27,Korona Kielce,Lechia Gdansk,3,0
+4803505,2025-09-27,Piast Gliwice,Termalica Nieciecza,4,2
+4803500,2025-09-27,Cracovia,Gornik Zabrze,1,1
+4803506,2025-09-28,Widzew Lodz,Rakow Czestochowa,0,1
+4803502,2025-09-28,Lech Poznan,Jagiellonia Bialystok,2,2
+4803503,2025-09-28,Legia Warszawa,Pogon Szczecin,1,0
+4803508,2025-09-29,Zaglebie Lubin,Arka Gdynia,4,0
+4803504,2025-09-29,Motor Lublin,Radomiak Radom,2,2
+4803513,2025-10-03,Lechia Gdansk,Wisla Plock,1,1
+4803514,2025-10-03,Pogon Szczecin,Piast Gliwice,2,1
+4803517,2025-10-04,Termalica Nieciecza,Widzew Lodz,2,4
+4803515,2025-10-04,Radomiak Radom,Zaglebie Lubin,3,1
+4803509,2025-10-04,Arka Gdynia,Cracovia,2,1
+4803512,2025-10-05,Jagiellonia Bialystok,Korona Kielce,3,1
+4803516,2025-10-05,Rakow Czestochowa,Motor Lublin,2,0
+4803510,2025-10-05,GKS Katowice,Lech Poznan,0,1
+4803511,2025-10-05,Gornik Zabrze,Legia Warszawa,3,1
+4803522,2025-10-17,Motor Lublin,GKS Katowice,2,5
+4803524,2025-10-17,Widzew Lodz,Radomiak Radom,3,2
+4803520,2025-10-18,Korona Kielce,Gornik Zabrze,1,1
+4803519,2025-10-18,Jagiellonia Bialystok,Arka Gdynia,4,0
+4803518,2025-10-18,Cracovia,Rakow Czestochowa,2,0
+4803523,2025-10-19,Piast Gliwice,Lechia Gdansk,1,2
+4803521,2025-10-19,Lech Poznan,Pogon Szczecin,2,2
+4803526,2025-10-19,Zaglebie Lubin,Legia Warszawa,3,1
+4803525,2025-10-20,Wisla Plock,Termalica Nieciecza,3,1
+4803535,2025-10-24,Termalica Nieciecza,Zaglebie Lubin,1,1
+4803531,2025-10-24,Motor Lublin,Widzew Lodz,3,0
+4803527,2025-10-25,Arka Gdynia,Piast Gliwice,2,1
+4803532,2025-10-25,Pogon Szczecin,Cracovia,2,1
+4803528,2025-10-25,GKS Katowice,Korona Kielce,1,0
+4803534,2025-10-26,Rakow Czestochowa,Lechia Gdansk,2,1
+4803529,2025-10-26,Gornik Zabrze,Jagiellonia Bialystok,2,1
+4803530,2025-10-26,Legia Warszawa,Lech Poznan,0,0
+4803533,2025-10-27,Radomiak Radom,Wisla Plock,1,1
+4803542,2025-10-31,Termalica Nieciecza,GKS Katowice,0,3
+4803541,2025-10-31,Piast Gliwice,Korona Kielce,0,0
+4803537,2025-11-02,Gornik Zabrze,Arka Gdynia,5,1
+4803540,2025-11-02,Lech Poznan,Motor Lublin,2,2
+4803538,2025-11-02,Jagiellonia Bialystok,Rakow Czestochowa,1,2
+4803543,2025-11-02,Widzew Lodz,Legia Warszawa,1,1
+4803539,2025-11-03,Lechia Gdansk,Radomiak Radom,1,2
+4803544,2025-11-03,Wisla Plock,Pogon Szczecin,2,0
+4803536,2025-11-03,Cracovia,Zaglebie Lubin,0,0
+4803552,2025-11-07,Radomiak Radom,Cracovia,3,0
+4803553,2025-11-07,Zaglebie Lubin,Gornik Zabrze,2,0
+4803548,2025-11-08,Lechia Gdansk,Widzew Lodz,2,1
+4803550,2025-11-08,Motor Lublin,Wisla Plock,1,1
+4803546,2025-11-08,GKS Katowice,Piast Gliwice,1,3
+4803547,2025-11-09,Korona Kielce,Rakow Czestochowa,1,4
+4803549,2025-11-09,Legia Warszawa,Termalica Nieciecza,1,2
+4803551,2025-11-09,Pogon Szczecin,Jagiellonia Bialystok,1,2
+4803545,2025-11-09,Arka Gdynia,Lech Poznan,3,1
+4803561,2025-11-21,Termalica Nieciecza,Arka Gdynia,2,0
+4803555,2025-11-21,Gornik Zabrze,Wisla Plock,1,1
+4803554,2025-11-22,Cracovia,Motor Lublin,1,2
+4803560,2025-11-22,Rakow Czestochowa,Piast Gliwice,1,3
+4803558,2025-11-22,Legia Warszawa,Lechia Gdansk,2,2
+4803557,2025-11-23,Lech Poznan,Radomiak Radom,4,1
+4803562,2025-11-23,Widzew Lodz,Korona Kielce,1,3
+4803559,2025-11-24,Pogon Szczecin,Zaglebie Lubin,5,1
+4803568,2025-11-28,Piast Gliwice,Widzew Lodz,0,2
+4803569,2025-11-28,Radomiak Radom,Gornik Zabrze,4,0
+4803566,2025-11-29,Lechia Gdansk,Termalica Nieciecza,5,1
+4803565,2025-11-29,Korona Kielce,Cracovia,0,1
+4803564,2025-11-29,GKS Katowice,Pogon Szczecin,2,0
+4803563,2025-11-30,Arka Gdynia,Rakow Czestochowa,1,4
+4803571,2025-11-30,Zaglebie Lubin,Jagiellonia Bialystok,0,0
+4803570,2025-11-30,Wisla Plock,Lech Poznan,0,0
+4803567,2025-12-01,Motor Lublin,Legia Warszawa,1,1
+4803490,2025-12-04,Wisla Plock,Cracovia,0,0
+4803575,2025-12-05,Lechia Gdansk,Gornik Zabrze,5,2
+4803572,2025-12-06,Arka Gdynia,Motor Lublin,1,0
+4803577,2025-12-06,Pogon Szczecin,Radomiak Radom,2,2
+4803580,2025-12-06,Zaglebie Lubin,Widzew Lodz,2,1
+4803576,2025-12-06,Piast Gliwice,Legia Warszawa,2,0
+4803579,2025-12-07,Termalica Nieciecza,Jagiellonia Bialystok,2,1
+4803573,2025-12-07,Cracovia,Lech Poznan,2,2
+4803578,2025-12-07,Rakow Czestochowa,GKS Katowice,1,0
+4803574,2025-12-08,Korona Kielce,Wisla Plock,1,1
+4803453,2025-12-14,Rakow Czestochowa,Zaglebie Lubin,0,1
+4803440,2025-12-14,Motor Lublin,Jagiellonia Bialystok,1,1
+4803423,2025-12-14,Legia Warszawa,Piast Gliwice,0,1
+4803589,2026-01-30,Zaglebie Lubin,GKS Katowice,0,2
+4803581,2026-01-31,Gornik Zabrze,Piast Gliwice,2,1
+4803587,2026-01-31,Widzew Lodz,Jagiellonia Bialystok,1,3
+4803582,2026-01-31,Lech Poznan,Lechia Gdansk,1,3
+4803584,2026-02-01,Motor Lublin,Pogon Szczecin,2,1
+4803588,2026-02-01,Wisla Plock,Rakow Czestochowa,2,1
+4803583,2026-02-01,Legia Warszawa,Korona Kielce,1,2
+4803586,2026-02-02,Termalica Nieciecza,Cracovia,0,1
+4803452,2026-02-03,Piast Gliwice,Lech Poznan,1,0
+4803594,2026-02-06,Korona Kielce,Zaglebie Lubin,1,2
+4803595,2026-02-06,Lechia Gdansk,Cracovia,1,1
+4803590,2026-02-07,Arka Gdynia,Legia Warszawa,2,2
+4803593,2026-02-07,Jagiellonia Bialystok,Motor Lublin,4,1
+4803592,2026-02-07,Gornik Zabrze,Lech Poznan,0,1
+4803597,2026-02-08,Pogon Szczecin,Termalica Nieciecza,1,1
+4803598,2026-02-08,Rakow Czestochowa,Radomiak Radom,0,0
+4803591,2026-02-08,GKS Katowice,Widzew Lodz,1,0
+4803596,2026-02-09,Piast Gliwice,Wisla Plock,1,0
+4803604,2026-02-13,Radomiak Radom,Korona Kielce,0,2
+4803600,2026-02-13,GKS Katowice,Legia Warszawa,1,1
+4803599,2026-02-14,Cracovia,Jagiellonia Bialystok,0,0
+4803607,2026-02-14,Zaglebie Lubin,Rakow Czestochowa,0,0
+4803606,2026-02-14,Wisla Plock,Widzew Lodz,0,2
+4803602,2026-02-15,Motor Lublin,Lechia Gdansk,2,3
+4803603,2026-02-15,Pogon Szczecin,Arka Gdynia,1,0
+4803601,2026-02-15,Lech Poznan,Piast Gliwice,3,0
+4803605,2026-02-16,Termalica Nieciecza,Gornik Zabrze,1,1
+4803614,2026-02-20,Piast Gliwice,Motor Lublin,1,2
+4803616,2026-02-20,Widzew Lodz,Cracovia,0,0
+4803615,2026-02-21,Rakow Czestochowa,Termalica Nieciecza,1,0
+4803609,2026-02-21,Gornik Zabrze,Pogon Szczecin,0,1
+4803613,2026-02-21,Legia Warszawa,Wisla Plock,2,1
+4803608,2026-02-22,Arka Gdynia,GKS Katowice,2,1
+4803610,2026-02-22,Jagiellonia Bialystok,Radomiak Radom,1,1
+4803611,2026-02-22,Korona Kielce,Lech Poznan,1,2
+4803612,2026-02-23,Lechia Gdansk,Zaglebie Lubin,0,2
+4803618,2026-02-27,Cracovia,Piast Gliwice,2,3
+4803617,2026-02-27,Arka Gdynia,Lechia Gdansk,2,2
+4803623,2026-02-28,Pogon Szczecin,Widzew Lodz,1,0
+4803622,2026-02-28,Motor Lublin,Korona Kielce,2,0
+4803619,2026-02-28,GKS Katowice,Gornik Zabrze,3,1
+4803624,2026-03-01,Termalica Nieciecza,Radomiak Radom,1,1
+4803620,2026-03-01,Jagiellonia Bialystok,Legia Warszawa,2,2
+4803621,2026-03-01,Lech Poznan,Rakow Czestochowa,4,3
+4803625,2026-03-02,Zaglebie Lubin,Wisla Plock,2,0
+4803585,2026-03-05,Radomiak Radom,Arka Gdynia,3,1
+4803627,2026-03-06,Lechia Gdansk,Jagiellonia Bialystok,3,0
+4803626,2026-03-07,Korona Kielce,Termalica Nieciecza,2,1
+4803630,2026-03-07,Piast Gliwice,Zaglebie Lubin,1,3
+4803633,2026-03-07,Widzew Lodz,Lech Poznan,2,1
+4803629,2026-03-08,Motor Lublin,Gornik Zabrze,0,0
+4803631,2026-03-08,Radomiak Radom,GKS Katowice,0,1
+4803632,2026-03-08,Rakow Czestochowa,Pogon Szczecin,2,0
+4803628,2026-03-08,Legia Warszawa,Cracovia,1,0
+4803634,2026-03-09,Wisla Plock,Arka Gdynia,0,3
