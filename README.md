@@ -39,6 +39,14 @@ To reflect the evolving form of teams, a **time decay** component $\phi(t-t_k)$ 
 
 After finalizing the parameters, the remainder of the 2025/2026 season was simulated **100,000 times**. Each iteration simulated every remaining fixture, generating a probability distribution for final points and league positions.
 
+## Visualizations
+
+### League Position Probabilities
+![Probabilites for each position](probs.png)
+
+### Expected Points (xPoints)
+![](groupped_probs.png)
+
 
 ---
 *Note: The source code for the simulation is available in the repository folders.*
