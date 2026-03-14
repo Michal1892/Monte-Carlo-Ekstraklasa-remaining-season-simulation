@@ -44,7 +44,8 @@ After finalizing the parameters, the remainder of the 2025/2026 season was simul
 ### Probabilites for each position
 ![Probabilites for each position](probs.png)
 
-
+###
+![Probs_groupped](groupped_probs.png)
 
 ---
 *Note: The source code for the simulation is available in the repository folders.*
