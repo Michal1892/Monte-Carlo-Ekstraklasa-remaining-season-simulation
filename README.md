@@ -41,10 +41,9 @@ After finalizing the parameters, the remainder of the 2025/2026 season was simul
 
 ## Visualizations
 
-### League Position Probabilities
+### Probabilites for each position
 ![Probabilites for each position](probs.png)
 
-### Expected Points (xPoints)
 ![](groupped_probs.png)
 
 
